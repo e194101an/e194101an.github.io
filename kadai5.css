@@ -1,0 +1,104 @@
+body{
+    
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTGXARjTMxIGdKicTSPsFwNMO2mGNwFh-ywcIhGKbf5MgnjNTa");
+}
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
+div.title{
+    width : 960px;
+    height : 30px;
+    background-color: aliceblue;
+    text-shadow: 9px 2px 2px silver;
+    text-align: left;
+    color:crimson;
+    letter-spacing: 0.5em;
+    font-size: 28px;
+    font-family: "Impact";
+    border: 5px solid red;
+    padding-left: 30px;
+}
+
+div.mix{
+    background-color: black;
+    width:990px;
+    height:320px;
+     border: 5px solid blue;
+    margin-bottom: 20px;
+    margin-top: 20px;    
+    font-size: 0;
+     vertical-align: top;
+}
+
+div.ia{
+    width: 700px;
+    height:320px;
+    
+    display: inline-block;
+   
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+div.menu{
+    width : 240px;
+    height : 320px;
+    font-family: "Impact";
+    text-align: center;
+    font-size: 30px;
+    display: inline-block;
+    vertical-align: top;
+   
+}
+
+div.menu1{
+    width : 240px;
+    height: 90px;
+    background-color: aliceblue;
+    color: ;
+    border: 5px dotted black;
+    margin-bottom: 10px
+}
+div.menu2{
+    width : 240px;
+    height: 90px;
+    background-color: aliceblue;
+    color: ;
+     border: 5px dotted black;
+    margin-bottom: 10px
+    }
+div.menu3{
+    width : 240px;
+    height: 90px;
+    background-color: aliceblue;
+    color: black;
+     border: 5px dotted black;
+}
+div.image{
+    width : 690px;
+    height : 290px;
+    background-color:aliceblue;
+   
+    color:white;
+     border: 5px dotted black;
+}
+div.article{
+   
+    vertical-align: top;
+    width : 700px;
+    height : 20px;
+    background-color: bisque;
+    text-align: top;
+    font-size: 17px;
+    
+}
+div.footer{
+    width : 990px;
+    height : 40px;
+    background-color: antiquewhite;
+    text-align: right;
+    font-size: 37px;
+    border:  5px solid blue;
+     vertical-align: top;
+}
