@@ -1,0 +1,35 @@
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTGXARjTMxIGdKicTSPsFwNMO2mGNwFh-ywcIhGKbf5MgnjNTa");
+}
+h1{
+    background-color: aqua;
+    
+    color:red!important;
+}
+p{
+    font-weight: bold;
+    color: cyan;
+}
+p2{
+    font-weight: bold;
+    color: aquamarine;
+}
+h2{
+    background-color: antiquewhite;
+    color:green;
+}
+h3{
+    font-size: 25px;
+    background-color: darkseagreen;
+    color: coral;
+        
+}
+h4{
+    
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+}
+p3{
+    background-color: aqua;
+}
